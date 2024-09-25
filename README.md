@@ -1,5 +1,5 @@
 # CIS-22C-Team-4
-Here is where we will keep our code for the CIS 22C final group project. 
+Details: Here is where we will keep our code for the CIS 22C final group project. This project was a part of contest which we entered as Team 4.
 Project summary:
 	Topic: Tablet convertible Laptops.
   
